@@ -1,0 +1,36 @@
+
+
+#us1 li a
+{
+	
+	float: left;
+  display: inline;
+  color: #333;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  
+}
+h1{
+	
+	font-weight:bold;
+	color:red;
+	text-align:center;
+	font-size:70px;
+	
+}
+
+#product
+{
+	
+		background-color:#ccc;
+		width:75%;
+		margin-left:auto;
+		margin-right:auto;
+	
+}
+table{
+	
+	width:100%;
+	height : 800px;
+}

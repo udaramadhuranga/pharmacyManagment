@@ -1,0 +1,107 @@
+.storage{
+	
+	padding:5%;
+}
+
+.new{
+	
+	background-image:url("../images/back5.jpg");
+}
+.add{
+	padding:5%;
+	margin-left:4%;
+}
+.profile{
+	
+	padding:5%;
+	margin-left:-2%;
+}
+
+.profilebtn{
+	 width: 10%;
+  height: 35px;
+  border: 1px solid #00B4CC;
+  background: #00B4CC;
+  text-align: center;
+  color: #fff;
+ border-radius: 5px 5px 5px 5px;
+  cursor: pointer;
+  font-size: 20px;
+  
+  margin-top:-5%;
+	
+}
+
+.storagebtn{
+		 width: 15%;
+  height: 35px;
+  border: 1px solid #00B4CC;
+  background: #00B4CC;
+  text-align: center;
+  color: #fff;
+  border-radius: 5px 5px 5px 5px;
+  cursor: pointer;
+  font-size: 20px;
+	
+	margin-left:3%;
+	margin-top:-5%;
+	text-decoration;none;
+}
+
+.addbtn{
+ width: 15%;
+  height: 35px;
+  border: 1px solid #00B4CC;
+  background: #00B4CC;
+  text-align: center;
+  color: #fff;
+  border-radius: 5px 5px 5px 5px;
+  cursor: pointer;
+  font-size: 20px;
+	
+	margin-left:5%;
+	margin-top:-5%;
+	text-decoration;none;
+	
+}
+
+.supbtn{
+ width: 10%;
+  height: 35px;
+  border: 1px solid #00B4CC;
+  background: #00B4CC;
+  text-align: center;
+  color: #fff;
+  border-radius: 5px 5px 5px 5px;
+  cursor: pointer;
+  font-size: 20px;
+	
+	margin-left:5%;
+	margin-top:-5%;
+	text-decoration;none;
+	
+}
+	
+}
+
+.details{
+	
+	margin-left:5%;
+	
+}
+.stockbtn
+{
+	 width: 15%;
+  height: 35px;
+  border: 1px solid #00B4CC;
+  background: #00B4CC;
+  text-align: center;
+  color: #fff;
+  border-radius: 5px 5px 5px 5px;
+  cursor: pointer;
+  font-size: 20px;
+  margin-left:5%;
+	margin-top:-5%;
+	text-decoration;none;
+}
+
